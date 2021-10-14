@@ -1,0 +1,8 @@
+{
+  "nome": "Fulano",
+  "cpf": 10000000000,
+  "email": "email@email.com",
+  "valor": 1000,
+  "parcelas": 3,
+  "seguro": false
+}
